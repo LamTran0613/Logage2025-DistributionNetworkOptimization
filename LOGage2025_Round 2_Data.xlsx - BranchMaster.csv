@@ -1,0 +1,636 @@
+DestinationRef,DestinationType,ShipToID,Longitude,Latitude,Suburb,City,SA4,State,Country
+3001BR,Branch,3001BR,"151,0012589","-33,7975559",North Parramatta,Parramatta,Sydney - Parramatta,New South Wales,Australia
+3002BR,Branch,3002BR,"149,2063","-35,347",Queanbeyan,Queanbeyan,Capital Region,New South Wales,Australia
+3003BR,Branch,3003BR,"147,343011","-35,122016",Wagga Wagga,Wagga Wagga,Riverina,New South Wales,Australia
+3004BR,Branch,3004BR,"150,8500198","-33,7609951",Glendenning,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3005BR,Branch,3005BR,"153,1294681","-30,28712578",Coffs Harbour,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Australia
+3006BR,Branch,3006BR,"151,0618","-33,9378",Punchbowl,Canterbury,Sydney - Inner South West,New South Wales,Australia
+3007BR,Branch,3007BR,"149,1386429","-35,21589553",Mitchell,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3008BR,Branch,3008BR,"151,661852","-32,961623",Warners Bay,Lake Macquarie,Newcastle and Lake Macquarie,New South Wales,Australia
+3009BR,Branch,3009BR,"150,6963627","-33,74281742",Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3010BR,Branch,3010BR,"151,0866862","-33,7219192",Thornleigh,Hornsby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3011BR,Branch,3011BR,"150,9082866","-33,74713125",Kings Park,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3012BR,Branch,3012BR,"150,8917144","-34,42959968",Wollongong,Wollongong,Illawarra,New South Wales,Australia
+3013BR,Branch,3013BR,"151,3276011","-33,41649281",West Gosford,Gosford,Central Coast,New South Wales,Australia
+3014BR,Branch,3014BR,"151,7430107","-32,91735353",Hamilton,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3015BR,Branch,3015BR,"151,2114195","-33,89782",Waterloo,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3016BR,Branch,3016BR,"151,191354","-33,817031",St Leonards,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3017BR,Branch,3017BR,"149,1314","-35,27565",Braddon,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3018BR,Branch,3018BR,"150,8161","-33,78387463",Minchinbury,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3019BR,Branch,3019BR,"150,9995","-33,9396",Revesby,Bankstown,Sydney - Inner South West,New South Wales,Australia
+3020BR,Branch,3020BR,"151,274202","-33,766726",Brookvale,Warringah,Sydney - Northern Beaches,New South Wales,Australia
+3021BR,Branch,3021BR,"152,8886603","-31,44862679",Port Macquarie,Port Macquarie-Hastings,Mid North Coast,New South Wales,Australia
+3022BR,Branch,3022BR,"152,936172","-29,688706",Grafton,Clarence Valley,Coffs Harbour - Grafton,New South Wales,Australia
+3023BR,Branch,3715BR,"151,126993","-34,031554",Caringbah,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3024BR,Branch,3024BR,"149,7018","-34,7624",Goulburn,Goulburn Mulwaree,Capital Region,New South Wales,Australia
+3025BR,Branch,3025BR,"150,413271","-34,481945",Bowral,Wingecarribee,Southern Highlands and Shoalhaven,New South Wales,Australia
+3026BR,Branch,3026BR,"150,8908256","-33,85247533",Wetherill Park,Fairfield,Sydney - South West,New South Wales,Australia
+3027BR,Branch,3027BR,"151,0328602","-33,81281608",Rydalmere,Parramatta,Sydney - Parramatta,New South Wales,Australia
+3028BR,Branch,3028BR,"150,933901","-33,929643",Moorebank,Liverpool,Sydney - South West,New South Wales,Australia
+3029BR,Branch,3029BR,"151,387656","-33,434333",Erina,Gosford,Central Coast,New South Wales,Australia
+3030BR,Branch,3030BR,"150,89295","-34,4084",North Wollongong,Wollongong,Illawarra,New South Wales,Australia
+3031BR,Branch,3031BR,"150,8493471","-34,44973931",Unanderra,Wollongong,Illawarra,New South Wales,Australia
+3032BR,Branch,3710BR,"150,8175","-34,57229",Albion Park Rail,Shellharbour,Illawarra,New South Wales,Australia
+3033BR,Branch,3033BR,"151,1474039","-33,8900755",Lewisham,Marrickville,Sydney - Inner West,New South Wales,Australia
+3034BR,Branch,3034BR,"150,8110206","-33,61889484",South Windsor,Hawkesbury,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3035BR,Branch,3035BR,"148,615848","-32,243218",Dubbo,Dubbo,Far West and Orana,New South Wales,Australia
+3036BR,Branch,3036BR,"151,1458391","-33,95915446",Rockdale,Rockdale,Sydney - Inner South West,New South Wales,Australia
+3037BR,Branch,3037BR,"146,0668145","-34,29009544",Griffith,Griffith,Riverina,New South Wales,Australia
+3039BR,Branch,3039BR,"149,0874199","-35,35464745",Phillip,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3040BR,Branch,3040BR,"150,977016","-33,734127",Castle Hill,The Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Australia
+3041BR,Branch,3041BR,"151,3065","-33,6745",Mona Vale,Pittwater,Sydney - Northern Beaches,New South Wales,Australia
+3042BR,Branch,3042BR,"151,6375","-32,787",Thornton,Maitland,Hunter Valley exc Newcastle,New South Wales,Australia
+3043BR,Branch,3043BR,"150,763693","-34,025752",Gregory Hills,Camden,Sydney - South West,New South Wales,Australia
+3044BR,Branch,3044BR,"150,6035378","-34,87845333",Nowra,Shoalhaven,Southern Highlands and Shoalhaven,New South Wales,Australia
+3045BR,Branch,3045BR,"141,4711044","-31,95494859",Broken Hill,Broken Hill,Far West and Orana,New South Wales,Australia
+3046BR,Branch,3046BR,"152,07","-32,7528",Salamander Bay,Port Stephens,Hunter Valley exc Newcastle,New South Wales,Australia
+3047BR,Branch,3047BR,"151,045013","-33,845607",Lidcombe,Auburn,Sydney - Parramatta,New South Wales,Australia
+3048BR,Branch,3048BR,"150,9076","-31,09149",Tamworth,Tamworth Regional,New England and North West,New South Wales,Australia
+3049BR,Branch,3049BR,"151,6474","-30,5164",Armidale,Armidale Dumaresq,New England and North West,New South Wales,Australia
+3050BR,Branch,3050BR,"151,1977109","-33,78699832",Chatswood,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3051BR,Branch,3051BR,"151,1245472","-33,81727568",Gladesville,Ryde,Sydney - Ryde,New South Wales,Australia
+3052BR,Branch,3052BR,"151,476","-33,1156",Morisset,Lake Macquarie,Newcastle and Lake Macquarie,New South Wales,Australia
+3053BR,Branch,3053BR,"151,0726887","-34,02658334",Kirrawee,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3054BR,Branch,3054BR,"151,2533845","-33,90130394",Waverley,Waverley,Sydney - Eastern Suburbs,New South Wales,Australia
+3055BR,Branch,3055BR,"151,695316","-32,988795",Gateshead,Lake Macquarie,Newcastle and Lake Macquarie,New South Wales,Australia
+3056BR,Branch,3056BR,"151,1439359","-33,75132785",Pymble,Ku-ring-gai,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3057BR,Branch,3057BR,"151,1712077","-32,56114888",Singleton,Singleton,Hunter Valley exc Newcastle,New South Wales,Australia
+3058BR,Branch,3058BR,"151,353437","-32,840866",Cessnock,Cessnock,Hunter Valley exc Newcastle,New South Wales,Australia
+3059BR,Branch,3059BR,"150,843686","-34,463208",Unanderra,Wollongong,Illawarra,New South Wales,Australia
+3060BR,Branch,3113BR,"150,8404146","-33,7169471",Marsden Park,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3061BR,Branch,3061BR,"150,8798787","-33,92764099",Prestons,Liverpool,Sydney - South West,New South Wales,Australia
+3062BR,Branch,3062BR,"151,5157858","-32,71213315",Rutherford,Maitland,Hunter Valley exc Newcastle,New South Wales,Australia
+3063BR,Branch,3063BR,"151,4973789","-33,23732866",Charmhaven,Wyong,Central Coast,New South Wales,Australia
+3064BR,Branch,3064BR,"149,1022989","-33,29072226",Orange,Orange,Central West,New South Wales,Australia
+3065BR,Branch,3065BR,"148,1623146","-33,1536579",Parkes,Parkes,Central West,New South Wales,Australia
+3066BR,Branch,3066BR,"151,0940356","-33,81083341",West Ryde,Ryde,Sydney - Ryde,New South Wales,Australia
+3067BR,Branch,3067BR,"149,54346","-33,41468",Bathurst,Bathurst,Central West,New South Wales,Australia
+3068BR,Branch,3068BR,"151,6837234","-32,90389644",Wallsend,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3069BR,Branch,3016BR,"151,191316","-33,816946",St Leonards,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3070BR,Branch,3015BR,"151,2114195","-33,89782",Waterloo,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3071BR,Branch,3071BR,"151,212232","-33,897721",Waterloo,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3073BR,Branch,3880BR,"150,920969","-33,821441",Pemulwuy,Holroyd,Sydney - Parramatta,New South Wales,Australia
+3074BR,Branch,3074BR,"150,176821","-35,720061",Batemans Bay,Eurobodalla,Capital Region,New South Wales,Australia
+3075BR,Branch,3075BR,"150,306468","-33,705465",Katoomba,Blue Mountains,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3076BR,Branch,3076BR,"151,1724","-33,86075",Balmain,Leichhardt,Sydney - Inner West,New South Wales,Australia
+3077BR,Branch,3077BR,"153,0883805","-30,31564293",Coffs Harbour South,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Australia
+3078BR,Branch,3078BR,"149,5983623","-32,60473729",Mudgee,Mid-Western Regional,Central West,New South Wales,Australia
+3079BR,Branch,3079BR,"150,9465","-33,7788",Seven Hills,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3081BR,Branch,3081BR,"151,225158","-33,959808",Matraville,Botany Bay,Sydney - Eastern Suburbs,New South Wales,Australia
+3082BR,Branch,3082BR,"149,82547","-36,6655",Bega,Bega Valley,Capital Region,New South Wales,Australia
+3083BR,Branch,3083BR,"147,3827419","-35,12199506",East Wagga Wagga,Wagga Wagga,Riverina,New South Wales,Australia
+3084BR,Branch,3014BR,"151,74305","-32,91736",Hamilton,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3085BR,Branch,3085BR,"153,2619","-28,821",Lismore,Lismore,Richmond - Tweed,New South Wales,Australia
+3087BR,Branch,3087BR,"153,5571147","-28,85028232",Ballina,Ballina,Richmond - Tweed,New South Wales,Australia
+3088BR,Branch,3088BR,"151,3921","-33,47349",Kincumber,Gosford,Central Coast,New South Wales,Australia
+3089BR,Branch,3713BR,"150,815195","-34,058457",Campbelltown,Campbelltown,Sydney - Outer South West,New South Wales,Australia
+3090BR,Branch,3003BR,"147,343011","-35,122016",Wagga Wagga,Wagga Wagga,Riverina,New South Wales,Australia
+3091BR,Branch,3880BR,"150,920969","-33,821441",Pemulwuy,Holroyd,Sydney - Parramatta,New South Wales,Australia
+3093BR,Branch,3093BR,"150,24441","-30,97545",Gunnedah,Gunnedah,New England and North West,New South Wales,Australia
+3094BR,Branch,3094BR,"151,117103","-29,770965",Inverell,Inverell,New England and North West,New South Wales,Australia
+3095BR,Branch,3095BR,"151,331736","-33,506652",Blackwall,Gosford,Central Coast,New South Wales,Australia
+3096BR,Branch,3096BR,"150,604073","-34,913194",South Nowra,Shoalhaven,Southern Highlands and Shoalhaven,New South Wales,Australia
+3097BR,Branch,3097BR,"153,5789","-28,63515619",Byron Bay,Byron,Richmond - Tweed,New South Wales,Australia
+3098BR,Branch,3098BR,"148,299736","-34,312192",Young,Young,Capital Region,New South Wales,Australia
+3099BR,Branch,3099BR,"151,705072","-32,94101",Kotara,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3100BR,Branch,3100BR,"151,422183","-33,319594",Tuggerah,Wyong,Central Coast,New South Wales,Australia
+3101BR,Branch,3147BR,"149,058855","-35,242486",Belconnen,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3102BR,Branch,3007BR,"149,1386429","-35,21589553",Mitchell,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3104BR,Branch,3018BR,"150,8161","-33,78387463",Minchinbury,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3105BR,Branch,3105BR,"151,218828","-33,760945",Forestville,Warringah,Sydney - Northern Beaches,New South Wales,Australia
+3107BR,Branch,3107BR,"151,63183","-32,81095",Beresfield,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3108BR,Branch,3713BR,"150,815099","-34,058457",Campbelltown,Campbelltown,Sydney - Outer South West,New South Wales,Australia
+3110BR,Branch,3043BR,"150,763693","-34,025752",Gregory Hills,Camden,Sydney - South West,New South Wales,Australia
+3111BR,Branch,3100BR,"151,422183","-33,319594",Tuggerah,Wyong,Central Coast,New South Wales,Australia
+3112BR,Branch,3112BR,"151,75497","-32,913184",Maryville,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3113BR,Branch,3113BR,"150,8404146","-33,7169471",Marsden Park,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3114BR,Branch,3114BR,"150,898404","-32,278779",Muswellbrook,Muswellbrook,Hunter Valley exc Newcastle,New South Wales,Australia
+3115BR,Branch,3115BR,"151,6287509","-32,8104537",Beresfield,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3116BR,Branch,3116BR,"151,748069","-32,781046",Heatherbrae,Port Stephens,Hunter Valley exc Newcastle,New South Wales,Australia
+3120BR,Branch,3120BR,"150,816804","-34,572959",Albion Park Rail,Shellharbour,Illawarra,New South Wales,Australia
+3121BR,Branch,3710BR,"150,8173","-34,57277",Oak Flats,Shellharbour,Illawarra,New South Wales,Australia
+3122BR,Branch,3122BR,"151,03191","-33,69508",Dural,Hornsby,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Australia
+3125BR,Branch,3125BR,"151,1030151","-33,91892739",Campsie,Canterbury,Sydney - Inner South West,New South Wales,Australia
+3130BR,Branch,3107BR,"151,63183","-32,81095",Beresfield,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3134BR,Branch,3134BR,"152,844703","-31,074545",Kempsey,Kempsey,Mid North Coast,New South Wales,Australia
+3136BR,Branch,3064BR,"149,1075366","-33,30894505",Orange,Orange,Central West,New South Wales,Australia
+3138BR,Branch,3138BR,"150,6863914","-33,76739343",South Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3139BR,Branch,3139BR,"151,273943","-33,76522",Brookvale,Warringah,Sydney - Northern Beaches,New South Wales,Australia
+3140BR,Branch,3139BR,"151,273943","-33,76522",Brookvale,Warringah,Sydney - Northern Beaches,New South Wales,Australia
+3141BR,Branch,3141BR,"150,98013","-33,87889",Villawood,Bankstown,Sydney - Parramatta,New South Wales,Australia
+3142BR,Branch,3141BR,"150,98013","-33,87889",Villawood,Bankstown,Sydney - Parramatta,New South Wales,Australia
+3147BR,Branch,3147BR,"149,058855","-35,242486",Belconnen,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3148BR,Branch,3054BR,"151,2541804","-33,9014253",Waverley,Waverley,Sydney - Eastern Suburbs,New South Wales,Australia
+3149BR,Branch,3149BR,"150,918792","-33,683193",Rouse Hill,The Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Australia
+3150BR,Branch,3150BR,"149,169939","-35,32731",Fyshwick,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3151BR,Branch,3151BR,"151,172072","-33,860547",Rozelle,Leichhardt,Sydney - Inner West,New South Wales,Australia
+3152BR,Branch,3152BR,"151,1199447","-34,0300551",Caringbah,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3153BR,Branch,3715BR,"151,126993","-34,031554",Caringbah,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3154BR,Branch,3154BR,"151,188625","-33,876694",Glebe,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3155BR,Branch,3155BR,"151,021285","-33,936702",Revesby,Bankstown,Sydney - Inner South West,New South Wales,Australia
+3156BR,Branch,3125BR,"151,1024355","-33,9190623",Campsie,Canterbury,Sydney - Inner South West,New South Wales,Australia
+3157BR,Branch,3150BR,"149,169939","-35,32731",Fyshwick,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3158BR,Branch,3158BR,"149,212007","-35,345096",Crestwood,Queanbeyan,Capital Region,New South Wales,Australia
+3159BR,Branch,3159BR,"152,45618","-31,899288",Taree,Greater Taree,Mid North Coast,New South Wales,Australia
+3160BR,Branch,3160BR,"152,522759","-32,200053",Forster,Great Lakes,Mid North Coast,New South Wales,Australia
+3161BR,Branch,3161BR,"151,066035","-33,900128",Greenacre,Strathfield,Sydney - Inner South West,New South Wales,Australia
+3162BR,Branch,3162BR,"151,149567","-33,808185",Lane Cove,Lane Cove,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3163BR,Branch,3163BR,"151,110662","-33,69683",Asquith,Hornsby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3164BR,Branch,3164BR,"151,012649","-34,014916",Menai,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3165BR,Branch,3163BR,"151,110662","-33,69683",Asquith,Hornsby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3166BR,Branch,3715BR,"151,126993","-34,031554",Caringbah,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3168BR,Branch,3168BR,"149,133329","-36,2326",Cooma,Cooma-Monaro,Capital Region,New South Wales,Australia
+3169BR,Branch,3169BR,"148,601884","-36,436506",Jindabyne,Snowy River,Capital Region,New South Wales,Australia
+3172BR,Branch,3172BR,"151,195811","-33,915255",Alexandria,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3174BR,Branch,3172BR,"151,195811","-33,915255",Alexandria,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3175BR,Branch,3175BR,"151,241675","-33,823665",Mosman,Mosman,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3176BR,Branch,3172BR,"151,193182","-33,919638",Alexandria,Sydney,Sydney - City and Inner South,New South Wales,Australia
+3177BR,Branch,3177BR,"150,87551","-33,788026",Arndell Park,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3178BR,Branch,3016BR,"151,191257","-33,815317",Artarmon,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3179BR,Branch,3179BR,"149,541528","-33,41353",Bathurst,Bathurst,Central West,New South Wales,Australia
+3180BR,Branch,3180BR,"150,974536","-33,73107",Castle Hill,The Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Australia
+3181BR,Branch,3181BR,"148,6137734","-32,2427919",Dubbo,Dubbo,Far West and Orana,New South Wales,Australia
+3182BR,Branch,3182BR,"151,327827","-33,415724",Gosford,Gosford,Central Coast,New South Wales,Australia
+3183BR,Branch,3183BR,"150,878868","-33,931498",Prestons,Liverpool,Sydney - South West,New South Wales,Australia
+3184BR,Branch,3184BR,"151,731154","-32,918459",Broadmeadow,Newcastle,Newcastle and Lake Macquarie,New South Wales,Australia
+3185BR,Branch,3185BR,"150,682614","-33,769436",Jamisontown,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3186BR,Branch,3186BR,"152,882415","-31,454932",Port Macquarie,Port Macquarie-Hastings,Mid North Coast,New South Wales,Australia
+3187BR,Branch,3187BR,"151,027895","-33,936037",Padstow,Bankstown,Sydney - Inner South West,New South Wales,Australia
+3188BR,Branch,3188BR,"151,052079","-33,833909",Silverwater,Auburn,Sydney - Parramatta,New South Wales,Australia
+3189BR,Branch,3189BR,"151,141793","-32,547343",Singleton,Singleton,Hunter Valley exc Newcastle,New South Wales,Australia
+3190BR,Branch,3152BR,"151,122608","-34,021103",Taren Point,Sutherland,Sydney - Sutherland,New South Wales,Australia
+3191BR,Branch,3003BR,"147,343011","-35,122016",Wagga Wagga,Wagga Wagga,Riverina,New South Wales,Australia
+3192BR,Branch,3192BR,"150,88933","-34,438",Wollongong,Wollongong,Illawarra,New South Wales,Australia
+3193BR,Branch,3193BR,"149,171058","-35,323441",Fyshwick,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3194BR,Branch,3194BR,"151,167587","-33,908678",Marrickville,Marrickville,Sydney - City and Inner South,New South Wales,Australia
+3195BR,Branch,3195BR,"149,175673","-35,333317",Fyshwick,Unincorporated Australian Capital Territory,Australian Capital Territory,Australian Capital Territory,Australia
+3196BR,Branch,3003BR,"147,342961","-35,121452",Wagga Wagga,Wagga Wagga,Riverina,New South Wales,Australia
+3197BR,Branch,3197BR,"150,848266","-33,761958",Rooty Hill,Blacktown,Sydney - Blacktown,New South Wales,Australia
+3198BR,Branch,3198BR,"150,981239","-33,732995",Castle Hill,The Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Australia
+3199BR,Branch,3199BR,"149,851901","-29,482705",Moree,Moree Plains,New England and North West,New South Wales,Australia
+3200BR,Branch,3201BR,"153,087756","-30,312997",North Boambee Valley,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Australia
+3201BR,Branch,3201BR,"153,087756","-30,312997",North Boambee Valley,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Australia
+3203BR,Branch,3203BR,"150,911862","-31,086996",Taminda,Tamworth Regional,New England and North West,New South Wales,Australia
+3204BR,Branch,3043BR,"150,763693","-34,025752",Gregory Hills,Camden,Sydney - South West,New South Wales,Australia
+3205BR,Branch,3205BR,"150,959828","-33,851799",Guildford,Holroyd,Sydney - Parramatta,New South Wales,Australia
+3206BR,Branch,3206BR,"150,915538","-33,826564",Pemulwuy,Holroyd,Sydney - Parramatta,New South Wales,Australia
+3207BR,Branch,3206BR,"150,915538","-33,826564",Pemulwuy,Holroyd,Sydney - Parramatta,New South Wales,Australia
+3209BR,Branch,3194BR,"151,167587","-33,908678",Marrickville,Marrickville,Sydney - City and Inner South,New South Wales,Australia
+3211BR,Branch,3211BR,"150,905207","-33,841053",Wetherill Park,Fairfield,Sydney - South West,New South Wales,Australia
+3213BR,Branch,3016BR,"151,191342","-33,816991",St Leonards,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3214BR,Branch,3713BR,"150,815099","-34,058457",Campbelltown,Campbelltown,Sydney - Outer South West,New South Wales,Australia
+3217BR,Branch,3217BR,"151,008858","-33,77568",North Rocks,The Hills,Sydney - Parramatta,New South Wales,Australia
+3220BR,Branch,3220BR,"150,7531884","-34,0412623",1-11 Smeaton Grange Road,Camden,Sydney - Outer South West,New South Wales,Australia
+3223BR,Branch,3223BR,"151,1877293","-33,81489507",Artarmon,Willoughby,Sydney - North Sydney and Hornsby,New South Wales,Australia
+3226BR,Branch,3201BR,"153,0880808","-30,31357199",North Boambee Valley,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Australia
+3227BR,Branch,3138BR,"150,6936021","-33,76886103",South Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3228BR,Branch,3138BR,"150,6936021","-33,76886103",South Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Australia
+3713BR,Branch,3713BR,"150,815195","-34,058457",Campbelltown,Campbelltown,Sydney - Outer South West,New South Wales,Australia
+4001BR,Branch,4001BR,"145,0244257","-37,88721417",Caulfield,Glen Eira,Melbourne - Inner South,Victoria,Australia
+4002BR,Branch,4055BR,"145,1414","-37,9231",Clayton,Monash,Melbourne - South East,Victoria,Australia
+4003BR,Branch,4003BR,"145,1353166","-37,81946946",Box Hill,Whitehorse,Melbourne - Inner East,Victoria,Australia
+4004BR,Branch,4004BR,"145,2854122","-37,79548015",Croydon,Maroondah,Melbourne - Outer East,Victoria,Australia
+4005BR,Branch,4005BR,"145,2158831","-37,8295045",Ringwood,Maroondah,Melbourne - Outer East,Victoria,Australia
+4006BR,Branch,4006BR,"145,1415008","-38,11319832",Seaford,Frankston,Mornington Peninsula,Victoria,Australia
+4007BR,Branch,4007BR,"145,039538","-37,694301",Thomastown,Whittlesea,Melbourne - North East,Victoria,Australia
+4008BR,Branch,4008BR,"145,0570411","-37,75146154",Heidelberg West,Banyule,Melbourne - North East,Victoria,Australia
+4009BR,Branch,4009BR,"145,1204126","-37,71540486",Montmorency,Banyule,Melbourne - North East,Victoria,Australia
+4010BR,Branch,4010BR,"144,8657393","-37,84063787",Newport,Hobsons Bay,Melbourne - West,Victoria,Australia
+4011BR,Branch,4011BR,"145,00468","-37,8191486",Richmond,Yarra,Melbourne - Inner,Victoria,Australia
+4012BR,Branch,4012BR,"144,860853","-37,812546",West Footscray,Maribyrnong,Melbourne - West,Victoria,Australia
+4013BR,Branch,4138BR,"145,234618","-37,99893",Doveton,Casey,Melbourne - South East,Victoria,Australia
+4014BR,Branch,4014BR,"145,0659391","-37,97583132",Mentone,Kingston,Melbourne - Inner South,Victoria,Australia
+4015BR,Branch,4131BR,"145,2790597","-37,8829931",Ferntree Gully,Knox,Melbourne - Outer East,Victoria,Australia
+4016BR,Branch,4016BR,"144,9708","-37,7743",Brunswick,Moreland,Melbourne - Inner,Victoria,Australia
+4017BR,Branch,4017BR,"144,7200875","-37,58637712",Sunbury,Hume,Melbourne - North West,Victoria,Australia
+4018BR,Branch,4018BR,"145,0584762","-38,23667212",Mornington,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4019BR,Branch,4019BR,"144,9263511","-37,77123154",Moonee Ponds,Moonee Valley,Melbourne - Inner,Victoria,Australia
+4020BR,Branch,4709BR,"146,924368","-36,07808",Albury,Albury,Murray,New South Wales,Australia
+4021BR,Branch,4721BR,"146,2571341","-38,17475095",Moe,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4022BR,Branch,4022BR,"144,35138","-38,16133",Geelong,Greater Geelong,Geelong,Victoria,Australia
+4023BR,Branch,4023BR,"144,9560949","-37,82934561",South Melbourne,Port Phillip,Melbourne - Inner,Victoria,Australia
+4024BR,Branch,4024BR,"144,8908988","-37,72477737",Airport West,Moonee Valley,Melbourne - North West,Victoria,Australia
+4025BR,Branch,4025BR,"142,029113","-37,742979",Hamilton,Southern Grampians,Warrnambool and South West,Victoria,Australia
+4026BR,Branch,4026BR,"142,1693306","-34,18769632",Mildura,Mildura,North West,Victoria,Australia
+4027BR,Branch,4027BR,"145,4043632","-36,38185151",Shepparton,Greater Shepparton,Shepparton,Victoria,Australia
+4028BR,Branch,4028BR,"144,9893289","-38,33371112",Dromana,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4029BR,Branch,4029BR,"144,5945","-37,68383",Melton,Melton,Melbourne - West,Victoria,Australia
+4030BR,Branch,4030BR,"147,5975264","-37,83751143",Bairnsdale,East Gippsland,Latrobe - Gippsland,Victoria,Australia
+4031BR,Branch,4031BR,"144,2720725","-36,76199482",Bendigo,Greater Bendigo,Bendigo,Victoria,Australia
+4032BR,Branch,4032BR,"145,1018","-37,85105",Burwood,Whitehorse,Melbourne - Inner East,Victoria,Australia
+4033BR,Branch,4033BR,"145,345599","-37,75653361",Lilydale,Yarra Ranges,Melbourne - Outer East,Victoria,Australia
+4034BR,Branch,4034BR,"145,5168462","-37,65406038",Healesville,Yarra Ranges,Melbourne - Outer East,Victoria,Australia
+4035BR,Branch,4035BR,"145,0762491","-37,8336322",Camberwell,Boroondara,Melbourne - Inner East,Victoria,Australia
+4036BR,Branch,4036BR,"143,86468","-37,560753",Ballarat,Ballarat,Ballarat,Victoria,Australia
+4037BR,Branch,4037BR,"147,0676912","-38,10033814",Sale,Wellington,Latrobe - Gippsland,Victoria,Australia
+4038BR,Branch,4038BR,"144,8299","-37,7722",Sunshine North,Brimbank,Melbourne - West,Victoria,Australia
+4039BR,Branch,4039BR,"144,85663","-38,3693",Tootgarook,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4040BR,Branch,4040BR,"145,1989186","-37,99092037",Dandenong,Greater Dandenong,Melbourne - South East,Victoria,Australia
+4042BR,Branch,4042BR,"144,702","-37,88085",Hoppers Crossing,Wyndham,Melbourne - West,Victoria,Australia
+4043BR,Branch,4043BR,"145,282571","-38,10200838",Cranbourne,Casey,Melbourne - South East,Victoria,Australia
+4044BR,Branch,4044BR,"145,589865","-38,601436",Wonthaggi,Bass Coast,Latrobe - Gippsland,Victoria,Australia
+4045BR,Branch,4045BR,"142,48747","-38,38129586",Warrnambool,Warrnambool,Warrnambool and South West,Victoria,Australia
+4046BR,Branch,4046BR,"145,4616579","-38,06334137",Pakenham,Cardinia,Melbourne - South East,Victoria,Australia
+4047BR,Branch,4047BR,"146,5537285","-38,19230403",Traralgon,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4048BR,Branch,4048BR,"144,9539429","-37,656412",Campbellfield,Hume,Melbourne - North West,Victoria,Australia
+4050BR,Branch,4050BR,"145,4401272","-37,93211191",Emerald,Cardinia,Melbourne - South East,Victoria,Australia
+4051BR,Branch,4051BR,"144,7319","-36,14022",Echuca,Campaspe,Shepparton,Victoria,Australia
+4052BR,Branch,4052BR,"145,1552","-37,6735",Diamond Creek,Nillumbik,Melbourne - North East,Victoria,Australia
+4053BR,Branch,4053BR,"146,8615","-36,1109",Wodonga,Wodonga,Hume,Victoria,Australia
+4054BR,Branch,4054BR,"142,20343","-36,718463",Horsham,Horsham,North West,Victoria,Australia
+4055BR,Branch,4055BR,"145,1414","-37,9231",Clayton,Monash,Melbourne - South East,Victoria,Australia
+4057BR,Branch,4005BR,"145,2158831","-37,8295045",Ringwood,Maroondah,Melbourne - Outer East,Victoria,Australia
+4058BR,Branch,4058BR,"144,983356","-37,864143",St Kilda,Port Phillip,Melbourne - Inner,Victoria,Australia
+4059BR,Branch,4059BR,"145,1835979","-38,29249211",Hastings,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4060BR,Branch,4060BR,"143,5572017","-35,33295587",Swan Hill,Swan Hill,North West,Victoria,Australia
+4061BR,Branch,4061BR,"145,1680588","-37,74906742",Templestowe,Manningham,Melbourne - Inner East,Victoria,Australia
+4062BR,Branch,4795BR,"144,845177","-37,693748",Melbourne Airport,Hume,Melbourne - North West,Victoria,Australia
+4063BR,Branch,4038BR,"144,8299","-37,7722",Sunshine North,Brimbank,Melbourne - West,Victoria,Australia
+4064BR,Branch,4055BR,"145,1414","-37,9231",Clayton,Monash,Melbourne - South East,Victoria,Australia
+4065BR,Branch,4065BR,"143,5898294","-38,34199305",Colac,Colac-Otway,Warrnambool and South West,Victoria,Australia
+4066BR,Branch,4066BR,"145,0171691","-37,85506434",Armadale,Stonnington,Melbourne - Inner,Victoria,Australia
+4067BR,Branch,4709BR,"146,924368","-36,07808",Albury,Albury,Murray,New South Wales,Australia
+4068BR,Branch,4068BR,"143,816152","-37,567962",Alfredton,Ballarat,Ballarat,Victoria,Australia
+4069BR,Branch,4033BR,"145,345459","-37,756889",Lilydale,Yarra Ranges,Melbourne - Outer East,Victoria,Australia
+4070BR,Branch,4018BR,"145,0584762","-38,23667212",Mornington,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4071BR,Branch,4066BR,"145,0171691","-37,85506434",Armadale,Stonnington,Melbourne - Inner,Victoria,Australia
+4073BR,Branch,4073BR,"144,3440473","-38,10743994",Bell Park,Greater Geelong,Geelong,Victoria,Australia
+4074BR,Branch,4074BR,"145,12161","-37,02126",Seymour,Mitchell,Hume,Victoria,Australia
+4075BR,Branch,4075BR,"144,5379948","-38,2517732",Ocean Grove,Greater Geelong,Geelong,Victoria,Australia
+4078BR,Branch,4078BR,"146,3134521","-36,36697766",Wangaratta,Wangaratta,Hume,Victoria,Australia
+4079BR,Branch,4079BR,"145,9385608","-38,16626518",Warragul,Baw Baw,Latrobe - Gippsland,Victoria,Australia
+4080BR,Branch,4080BR,"144,4583487","-37,24145857",Kyneton,Macedon Ranges,Bendigo,Victoria,Australia
+4081BR,Branch,4081BR,"145,037","-37,8047",Kew,Boroondara,Melbourne - Inner East,Victoria,Australia
+4082BR,Branch,4082BR,"144,3188064","-38,3091309",Torquay,Surf Coast,Geelong,Victoria,Australia
+4084BR,Branch,4048BR,"144,953942","-37,656412",Campbellfield,Hume,Melbourne - North West,Victoria,Australia
+4085BR,Branch,4085BR,"144,7541584","-37,76208158",Ravenhall,Melton,Melbourne - West,Victoria,Australia
+4086BR,Branch,4086BR,"145,0792497","-37,65668532",Mill Park,Whittlesea,Melbourne - North East,Victoria,Australia
+4087BR,Branch,4087BR,"144,6705426","-37,89514056",Werribee,Wyndham,Melbourne - West,Victoria,Australia
+4090BR,Branch,4090BR,"145,1015453","-37,8506115",Burwood,Whitehorse,Melbourne - Inner East,Victoria,Australia
+4091BR,Branch,4880BR,"145,237585","-38,026643",Dandenong South,Greater Dandenong,Melbourne - South East,Victoria,Australia
+4093BR,Branch,4095BR,"144,85939","-37,792561",Braybrook,Maribyrnong,Melbourne - West,Victoria,Australia
+4095BR,Branch,4095BR,"144,85939","-37,792561",Braybrook,Maribyrnong,Melbourne - West,Victoria,Australia
+4097BR,Branch,4097BR,"145,3130617","-38,02479503",Narre Warren,Casey,Melbourne - South East,Victoria,Australia
+4098BR,Branch,4098BR,"141,6041521","-38,33755841",Portland,Glenelg,Warrnambool and South West,Victoria,Australia
+4099BR,Branch,4099BR,"145,6100494","-37,78176944",Yarra Junction,Yarra Ranges,Melbourne - Outer East,Victoria,Australia
+4100BR,Branch,4100BR,"144,9751814","-37,7241199",Coburg North,Moreland,Melbourne - North West,Victoria,Australia
+4101BR,Branch,4101BR,"145,24976","-38,45763085",Cowes,Bass Coast,Latrobe - Gippsland,Victoria,Australia
+4102BR,Branch,4001BR,"145,0244257","-37,88721417",Caulfield,Glen Eira,Melbourne - Inner South,Victoria,Australia
+4103BR,Branch,4103BR,"144,2056","-37,07243",Castlemaine,Mount Alexander,Bendigo,Victoria,Australia
+4104BR,Branch,4048BR,"144,953942","-37,656412",Campbellfield,Hume,Melbourne - North West,Victoria,Australia
+4105BR,Branch,4880BR,"145,237585","-38,026643",Dandenong South,Greater Dandenong,Melbourne - South East,Victoria,Australia
+4106BR,Branch,4795BR,"144,7496662","-37,77625402",Melbourne Airport,Melton,Melbourne - West,Victoria,Australia
+4107BR,Branch,4086BR,"145,0792497","-37,65668532",Mill Park,Whittlesea,Melbourne - North East,Victoria,Australia
+4108BR,Branch,4108BR,"146,0033246","-36,54602129",Benalla,Benalla,Hume,Victoria,Australia
+4110BR,Branch,4110BR,"146,0885","-37,04511",Mansfield,Mansfield,Hume,Victoria,Australia
+4111BR,Branch,4111BR,"142,9472882","-37,28424561",Ararat,Ararat,North West,Victoria,Australia
+4112BR,Branch,4112BR,"144,3035","-36,7485",East Bendigo,Greater Bendigo,Bendigo,Victoria,Australia
+4113BR,Branch,4046BR,"145,4616579","-38,06334137",Pakenham,Cardinia,Melbourne - South East,Victoria,Australia
+4114BR,Branch,4114BR,"145,096042","-37,925873",Oakleigh,Kingston,Melbourne - South East,Victoria,Australia
+4115BR,Branch,4073BR,"144,3413","-38,1066",Bell Park,Greater Geelong,Geelong,Victoria,Australia
+4117BR,Branch,4217BR,"143,808432","-37,575869",Delacombe,Ballarat,Ballarat,Victoria,Australia
+4118BR,Branch,4118BR,"146,959743","-36,045356",Lavington,Albury,Murray,New South Wales,Australia
+4119BR,Branch,4119BR,"144,950034","-37,28138653",Kilmore,Mitchell,Hume,Victoria,Australia
+4120BR,Branch,4120BR,"148,0007831","-37,87343079",Lakes Entrance,East Gippsland,Latrobe - Gippsland,Victoria,Australia
+4121BR,Branch,4121BR,"144,5765","-38,1739",Drysdale,Greater Geelong,Geelong,Victoria,Australia
+4122BR,Branch,4122BR,"145,995668","-36,030907",Yarrawonga,Moira,Shepparton,Victoria,Australia
+4124BR,Branch,4124BR,"144,3485","-38,1171",North Geelong,Greater Geelong,Geelong,Victoria,Australia
+4125BR,Branch,4125BR,"145,9449062","-38,4725699",Leongatha,South Gippsland,Latrobe - Gippsland,Victoria,Australia
+4126BR,Branch,4126BR,"145,1137","-37,51775",Whittlesea,Whittlesea,Melbourne - North East,Victoria,Australia
+4127BR,Branch,4127BR,"145,179115","-38,222402",Somerville,Mornington Peninsula,Mornington Peninsula,Victoria,Australia
+4129BR,Branch,4129BR,"145,167198","-38,088932",Carrum Downs,Frankston,Mornington Peninsula,Victoria,Australia
+4130BR,Branch,4053BR,"146,8615","-36,1109",Wodonga,Wodonga,Hume,Victoria,Australia
+4131BR,Branch,4131BR,"145,2790597","-37,8829931",Ferntree Gully,Knox,Melbourne - Outer East,Victoria,Australia
+4133BR,Branch,4133BR,"146,435212","-38,235961",Morwell,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4134BR,Branch,4134BR,"145,128568","-38,089335",Seaford,Frankston,Mornington Peninsula,Victoria,Australia
+4135BR,Branch,4135BR,"144,7962629","-37,7007507",Taylors Lakes,Brimbank,Melbourne - West,Victoria,Australia
+4136BR,Branch,4011BR,"145,012305","-37,819699",Richmond,Yarra,Melbourne - Inner,Victoria,Australia
+4138BR,Branch,4138BR,"145,234618","-37,99893",Doveton,Casey,Melbourne - South East,Victoria,Australia
+4139BR,Branch,4008BR,"145,0569538","-37,7519823",Heidelberg West,Banyule,Melbourne - North East,Victoria,Australia
+4141BR,Branch,4141BR,"144,44134","-37,68792",Bacchus Marsh,Moorabool,Melbourne - West,Victoria,Australia
+4142BR,Branch,4143BR,"145,009424","-37,817811",Richmond,Yarra,Melbourne - Inner,Victoria,Australia
+4143BR,Branch,4143BR,"145,009424","-37,817811",Richmond,Yarra,Melbourne - Inner,Victoria,Australia
+4144BR,Branch,4144BR,"145,243274","-37,90556",Rowville,Knox,Melbourne - Outer East,Victoria,Australia
+4145BR,Branch,4720BR,"144,2428","-36,80765",Kangaroo Flat,Greater Bendigo,Bendigo,Victoria,Australia
+4146BR,Branch,4720BR,"144,2428","-36,80765",Kangaroo Flat,Greater Bendigo,Bendigo,Victoria,Australia
+4147BR,Branch,4720BR,"144,2428","-36,80765",Kangaroo Flat,Greater Bendigo,Bendigo,Victoria,Australia
+4148BR,Branch,4148BR,"144,34667","-38,193623",GROVEDALE,Greater Geelong,Geelong,Victoria,Australia
+4149BR,Branch,4149BR,"144,364182","-38,172989",South Geelong,Greater Geelong,Geelong,Victoria,Australia
+4150BR,Branch,4150BR,"145,843838","-38,12065",Drouin,Baw Baw,Latrobe - Gippsland,Victoria,Australia
+4151BR,Branch,4151BR,"142,45542","-38,37134",Warrnambool,Warrnambool,Warrnambool and South West,Victoria,Australia
+4153BR,Branch,4153BR,"145,282682","-37,829492",Bayswater North,Maroondah,Melbourne - Outer East,Victoria,Australia
+4154BR,Branch,4118BR,"146,959743","-36,045356",Lavington,Albury,Murray,New South Wales,Australia
+4155BR,Branch,4155BR,"145,010655","-37,907507",Brighton East,Bayside,Melbourne - Inner South,Victoria,Australia
+4157BR,Branch,4158BR,"145,02341","-37,76864",Fairfield,Darebin,Melbourne - Inner,Victoria,Australia
+4158BR,Branch,4158BR,"145,02341","-37,76864",Fairfield,Darebin,Melbourne - Inner,Victoria,Australia
+4159BR,Branch,4158BR,"145,02341","-37,76864",Fairfield,Darebin,Melbourne - Inner,Victoria,Australia
+4161BR,Branch,4721BR,"146,2571341","-38,17475095",Moe,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4165BR,Branch,4024BR,"144,890906","-37,724769",Airport West,Moonee Valley,Melbourne - North West,Victoria,Australia
+4166BR,Branch,4029BR,"144,5945","-37,68383",Melton,Melton,Melbourne - West,Victoria,Australia
+4168BR,Branch,4168BR,"144,876524","-37,779379",Maidstone,Maribyrnong,Melbourne - West,Victoria,Australia
+4169BR,Branch,4169BR,"144,936359","-37,794781",North Melbourne,Melbourne,Melbourne - Inner,Victoria,Australia
+4172BR,Branch,4172BR,"144,91904","-37,832065",Port Melbourne,Port Phillip,Melbourne - Inner,Victoria,Australia
+4176BR,Branch,4176BR,"145,1356135","-38,0357077",Chelsea Heights,Kingston,Melbourne - Inner South,Victoria,Australia
+4177BR,Branch,4155BR,"145,010655","-37,907507",Brighton East,Bayside,Melbourne - Inner South,Victoria,Australia
+4178BR,Branch,4178BR,"144,907271","-37,7433564",Essendon,Moonee Valley,Melbourne - Inner,Victoria,Australia
+4179BR,Branch,4179BR,"143,835738","-37,541236",Wendouree,Ballarat,Ballarat,Victoria,Australia
+4180BR,Branch,4180BR,"144,99383","-37,798963",Abbotsford,Yarra,Melbourne - Inner,Victoria,Australia
+4181BR,Branch,4153BR,"145,282682","-37,829492",Bayswater North,Maroondah,Melbourne - Outer East,Victoria,Australia
+4182BR,Branch,4182BR,"144,271471","-36,77023",Golden Square,Greater Bendigo,Bendigo,Victoria,Australia
+4183BR,Branch,4183BR,"145,187219","-37,832215",Vermont,Whitehorse,Melbourne - Outer East,Victoria,Australia
+4184BR,Branch,4795BR,"144,845177","-37,693748",Melbourne Airport,Hume,Melbourne - North West,Victoria,Australia
+4185BR,Branch,4185BR,"144,3660633","-38,1725818",South Geelong,Greater Geelong,Geelong,Victoria,Australia
+4186BR,Branch,4186BR,"145,257876","-38,015063",Hallam,Casey,Melbourne - South East,Victoria,Australia
+4187BR,Branch,4187BR,"144,787627","-37,819546",Laverton North,Wyndham,Melbourne - West,Victoria,Australia
+4188BR,Branch,4026BR,"142,178162","-34,195041",Mildura,Mildura,North West,Victoria,Australia
+4189BR,Branch,4189BR,"145,076062","-37,943831",Moorabbin,Kingston,Melbourne - Inner South,Victoria,Australia
+4190BR,Branch,4190BR,"145,16273","-37,920976",Mulgrave,Monash,Melbourne - South East,Victoria,Australia
+4191BR,Branch,4191BR,"145,020174","-37,746135",Preston,Darebin,Melbourne - North East,Victoria,Australia
+4192BR,Branch,4192BR,"145,4187645","-36,38805087",Shepparton,Greater Shepparton,Shepparton,Victoria,Australia
+4193BR,Branch,4047BR,"146,554424","-38,191357",Traralgon,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4194BR,Branch,4194BR,"144,933784","-37,803313",West Melbourne,Melbourne,Melbourne - Inner,Victoria,Australia
+4195BR,Branch,4195BR,"146,919625","-36,093302",Albury,Albury,Murray,New South Wales,Australia
+4197BR,Branch,4197BR,"146,9619","-36,063194",Thurgoona,Albury,Murray,New South Wales,Australia
+4198BR,Branch,4198BR,"145,260608","-38,010194",Hallam,Casey,Melbourne - South East,Victoria,Australia
+4200BR,Branch,4217BR,"143,808432","-37,575869",Delacombe,Ballarat,Ballarat,Victoria,Australia
+4201BR,Branch,4153BR,"145,282682","-37,829492",Bayswater North,Maroondah,Melbourne - Outer East,Victoria,Australia
+4202BR,Branch,4202BR,"145,2099","-38,004806",Dandenong,Greater Dandenong,Melbourne - South East,Victoria,Australia
+4203BR,Branch,4203BR,"144,7472255","-37,7762874",Ravenhall,Melton,Melbourne - West,Victoria,Australia
+4204BR,Branch,4204BR,"145,033283","-37,689958",Thomastown,Whittlesea,Melbourne - North East,Victoria,Australia
+4205BR,Branch,4205BR,"146,570096","-38,189516",Traralgon,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4206BR,Branch,4206BR,"144,309382","-36,749578",Bendigo,Greater Bendigo,Bendigo,Victoria,Australia
+4207BR,Branch,4149BR,"144,364182","-38,172989",South Geelong,Greater Geelong,Geelong,Victoria,Australia
+4209BR,Branch,4129BR,"145,167198","-38,088932",Carrum Downs,Frankston,Mornington Peninsula,Victoria,Australia
+4212BR,Branch,4212BR,"144,937168","-37,83085",Port Melbourne,Port Phillip,Melbourne - Inner,Victoria,Australia
+4213BR,Branch,4213BR,"145,033268","-37,689957",Thomastown,Whittlesea,Melbourne - North East,Victoria,Australia
+4214BR,Branch,4153BR,"145,282682","-37,829492",Bayswater North,Maroondah,Melbourne - Outer East,Victoria,Australia
+4215BR,Branch,4795BR,"144,845177","-37,693748",Melbourne Airport,Hume,Melbourne - North West,Victoria,Australia
+4217BR,Branch,4217BR,"143,808432","-37,575869",Delacombe,Ballarat,Ballarat,Victoria,Australia
+4218BR,Branch,4129BR,"145,167816","-38,089142",Carrum Downs,Frankston,Mornington Peninsula,Victoria,Australia
+4219BR,Branch,4068BR,"143,816152","-37,567962",Ballarat,Ballarat,Ballarat,Victoria,Australia
+4220BR,Branch,4006BR,"145,1415008","-38,11319832",Seaford,Frankston,Mornington Peninsula,Victoria,Australia
+4222BR,Branch,4095BR,"144,85939","-37,792561",Braybrook,Maribyrnong,Melbourne - West,Victoria,Australia
+4225BR,Branch,4192BR,"145,4196977","-36,38792675",Shepparton,Greater Shepparton,Shepparton,Victoria,Australia
+4226BR,Branch,4138BR,"145,234618","-37,99893",Doveton,Casey,Melbourne - South East,Victoria,Australia
+4229BR,Branch,4192BR,"145,4200827","-36,3879182",Shepparton,Greater Shepparton,Shepparton,Victoria,Australia
+4230BR,Branch,4721BR,"146,25721","-38,17459",Moe,Latrobe,Latrobe - Gippsland,Victoria,Australia
+4603BR,Branch,4910BR,"144,9933686","-37,8300515",Cremorne,Yarra,Melbourne - Inner,Victoria,Australia
+4702BR,Branch,4055BR,"145,1414","-37,9231",Clayton,Monash,Melbourne - South East,Victoria,Australia
+4703BR,Branch,4038BR,"144,8299","-37,7722",Sunshine North,Brimbank,Melbourne - West,Victoria,Australia
+4712BR,Branch,4048BR,"144,9533749","-37,6564783",Campbellfield,Hume,Melbourne - North West,Victoria,Australia
+4719BR,Branch,4158BR,"145,02341","-37,76864",Fairfield,Darebin,Melbourne - Inner,Victoria,Australia
+4913BR,Branch,4910BR,"144,9933686","-37,8300515",Cremorne,Yarra,Melbourne - Inner,Victoria,Australia
+5001BR,Branch,5001BR,"153,383682","-27,932671",Biggera Waters,Gold Coast,Gold Coast,Queensland,Australia
+5002BR,Branch,5002BR,"153,0503721","-27,6624256",Browns Plains,Logan,Logan - Beaudesert,Queensland,Australia
+5003BR,Branch,5003BR,"153,05026","-27,3693",Geebung,Brisbane,Brisbane - North,Queensland,Australia
+5004BR,Branch,5004BR,"153,4319","-28,0399",Mermaid Beach,Gold Coast,Gold Coast,Queensland,Australia
+5005BR,Branch,5005BR,"153,4245901","-28,10438543",Burleigh Heads,Gold Coast,Gold Coast,Queensland,Australia
+5006BR,Branch,5710BR,"152,99352","-27,42008",Enoggera,Brisbane,Brisbane - West,Queensland,Australia
+5007BR,Branch,5007BR,"153,112187","-27,620193",Underwood,Logan,Logan - Beaudesert,Queensland,Australia
+5008BR,Branch,5008BR,"153,2010572","-27,53432824",Capalaba,Redland,Brisbane - East,Queensland,Australia
+5009BR,Branch,5709BR,"152,9502225","-27,11152914",Morayfield,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5011BR,Branch,5080BR,"153,0935","-26,6731",Maroochydore,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5012BR,Branch,5012BR,"153,0059975","-27,47642855",West End,Brisbane,,Queensland,Australia
+5013BR,Branch,5013BR,"153,04859","-26,41105",Noosaville,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5014BR,Branch,5014BR,"153,0297589","-27,3996969",Kedron,Brisbane,Brisbane - North,Queensland,Australia
+5015BR,Branch,5015BR,"153,111729","-26,796294",Caloundra West,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5016BR,Branch,5016BR,"152,761","-27,608",North Ipswich,Ipswich,Ipswich,Queensland,Australia
+5017BR,Branch,5017BR,"152,8308909","-25,28530716",Pialba,Fraser Coast,Wide Bay,Queensland,Australia
+5019BR,Branch,5705BR,"153,344432","-28,006707",Nerang,Gold Coast,Gold Coast,Queensland,Australia
+5021BR,Branch,5701BR,"145,7602069","-16,93157891",Cairns,Cairns,Cairns,Queensland,Australia
+5022BR,Branch,5022BR,"146,7815622","-19,2719048",Currajong,Townsville,Townsville,Queensland,Australia
+5023BR,Branch,5023BR,"139,5052571","-20,70350247",Sunset,Mount Isa,Queensland - Outback,Queensland,Australia
+5024BR,Branch,5024BR,"149,190085","-21,140923",Mackay,Mackay,Mackay - Isaac - Whitsunday,Queensland,Australia
+5026BR,Branch,5026BR,"153,5352","-28,2044",Tweed Heads South,Tweed,Richmond - Tweed,New South Wales,Australia
+5027BR,Branch,5027BR,"152,3568709","-24,86521136",Bundaberg,Bundaberg,Wide Bay,Queensland,Australia
+5028BR,Branch,5028BR,"153,045071","-27,491422",Woolloongabba,Brisbane,Brisbane Inner City,Queensland,Australia
+5029BR,Branch,5029BR,"151,9494574","-27,55652265",Toowoomba,Toowoomba,Toowoomba,Queensland,Australia
+5030BR,Branch,5030BR,"153,0848","-27,4572559",Morningside,Brisbane,,Queensland,Australia
+5032BR,Branch,5032BR,"148,6895678","-20,28228104",Cannonvale,Whitsunday,Mackay - Isaac - Whitsunday,Queensland,Australia
+5033BR,Branch,5033BR,"153,1839514","-27,72006776",Beenleigh,Logan,Logan - Beaudesert,Queensland,Australia
+5034BR,Branch,5034BR,"153,0432","-27,4392",Albion,Brisbane,Brisbane Inner City,Queensland,Australia
+5035BR,Branch,5035BR,"150,5070566","-23,380566",Rockhampton,Rockhampton,Central Queensland,Queensland,Australia
+5036BR,Branch,5036BR,"145,7453","-17,00334",Edmonton,Cairns,Cairns,Queensland,Australia
+5039BR,Branch,5039BR,"145,6947942","-16,83555271",Smithfield,Cairns,Cairns,Queensland,Australia
+5041BR,Branch,5041BR,"152,983126","-27,317116",Brendale,Moreton Bay,Moreton Bay - South,Queensland,Australia
+5042BR,Branch,5048BR,"153,3141373","-27,88491993",Oxenford,Gold Coast,Gold Coast,Queensland,Australia
+5043BR,Branch,5043BR,"153,0827","-27,2347",Clontarf,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5044BR,Branch,5044BR,"152,9776157","-27,49322388",Taringa,Brisbane,Brisbane - West,Queensland,Australia
+5045BR,Branch,5045BR,"153,1729164","-27,44746126",Wynnum,Brisbane,Brisbane - East,Queensland,Australia
+5046BR,Branch,5046BR,"145,74571","-16,914425",Cairns,Cairns,Cairns,Queensland,Australia
+5047BR,Branch,5703BR,"153,098238","-27,532538",Mansfield,Brisbane,Brisbane - South,Queensland,Australia
+5048BR,Branch,5048BR,"153,314119","-27,888307",Oxenford,Gold Coast,Gold Coast,Queensland,Australia
+5049BR,Branch,5701BR,"145,7602069","-16,93157891",Cairns,Cairns,Cairns,Queensland,Australia
+5050BR,Branch,5050BR,"146,0194748","-17,52414272",Innisfail,Cassowary Coast,Cairns,Queensland,Australia
+5051BR,Branch,5051BR,"153,024597","-27,836175",Jimboomba,Logan,Logan - Beaudesert,Queensland,Australia
+5054BR,Branch,5054BR,"151,924","-27,5734",Toowoomba West,Toowoomba,Toowoomba,Queensland,Australia
+5055BR,Branch,5704BR,"146,7195","-19,32004373",Condon,Townsville,Townsville,Queensland,Australia
+5056BR,Branch,5704BR,"146,7195","-19,32004373",Condon,Townsville,Townsville,Queensland,Australia
+5057BR,Branch,5057BR,"146,777418","-19,266345",Garbutt,Townsville,Townsville,Queensland,Australia
+5058BR,Branch,5895BR,"153,0858067","-27,42",Eagle Farm,Brisbane,Brisbane - North,Queensland,Australia
+5059BR,Branch,5059BR,"149,1586","-21,1290136",Mount Pleasant,Mackay,Mackay - Isaac - Whitsunday,Queensland,Australia
+5060BR,Branch,5060BR,"153,070069","-26,526178",Coolum Beach,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5061BR,Branch,5044BR,"152,97637","-27,495112",Indooroopilly,Brisbane,Brisbane - West,Queensland,Australia
+5062BR,Branch,5062BR,"152,919762","-27,614946",Carole Park,Ipswich,Ipswich,Queensland,Australia
+5063BR,Branch,5063BR,"145,466516","-16,536798",Craiglie,Cairns,Cairns,Queensland,Australia
+5064BR,Branch,5064BR,"153,4103228","-28,00814614",Bundall,Gold Coast,Gold Coast,Queensland,Australia
+5065BR,Branch,5065BR,"150,743089","-23,139949",Yeppoon,Rockhampton,Central Queensland,Queensland,Australia
+5066BR,Branch,5066BR,"152,919028","-27,654251",Springfield,Ipswich,Ipswich,Queensland,Australia
+5067BR,Branch,5067BR,"152,0367417","-28,21679751",Warwick,Southern Downs,Darling Downs - Maranoa,Queensland,Australia
+5068BR,Branch,5048BR,"153,314119","-27,888307",Oxenford,Gold Coast,Gold Coast,Queensland,Australia
+5070BR,Branch,5070BR,"150,50874","-23,337847",Kawana,Rockhampton,Central Queensland,Queensland,Australia
+5071BR,Branch,5895BR,"153,0403106","-27,4489307",Bowen Hills,Brisbane,Brisbane Inner City,Queensland,Australia
+5072BR,Branch,5072BR,"152,702896","-25,540485",Maryborough,Fraser Coast,Wide Bay,Queensland,Australia
+5073BR,Branch,5073BR,"148,152871","-23,524846",Emerald,Central Highlands,Central Queensland,Queensland,Australia
+5074BR,Branch,5060BR,"153,070069","-26,526178",Coolum Beach,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5076BR,Branch,5064BR,"153,411285","-28,003067",Bundall,Gold Coast,Gold Coast,Queensland,Australia
+5077BR,Branch,5077BR,"152,95084","-26,6321",Burnside,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5080BR,Branch,5080BR,"153,093027","-26,673336",Maroochydore,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5081BR,Branch,5081BR,"153,2392158","-27,7605889",Yatala,Gold Coast,Gold Coast,Queensland,Australia
+5082BR,Branch,5705BR,"153,344432","-28,006707",Carrara,Gold Coast,Gold Coast,Queensland,Australia
+5084BR,Branch,5709BR,"152,9502225","-27,11152914",Morayfield,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5087BR,Branch,5087BR,"148,23196","-20,00893",Bowen,Whitsunday,Mackay - Isaac - Whitsunday,Queensland,Australia
+5091BR,Branch,5895BR,"153,0853782","-27,421208",Eagle Farm,Brisbane,Brisbane - North,Queensland,Australia
+5092BR,Branch,5710BR,"152,99352","-27,42008",Enoggera,Brisbane,Brisbane - West,Queensland,Australia
+5093BR,Branch,5710BR,"152,99352","-27,42008",Enoggera,Brisbane,Brisbane - West,Queensland,Australia
+5094BR,Branch,5710BR,"152,99352","-27,42008",Enoggera,Brisbane,Brisbane - West,Queensland,Australia
+5095BR,Branch,5095BR,"152,655818","-26,187334",Gympie,Gympie,Wide Bay,Queensland,Australia
+5097BR,Branch,5097BR,"145,475764","-17,253774",Atherton,Tablelands,Cairns,Queensland,Australia
+5098BR,Branch,5098BR,"153,128662","-26,725134",Warana,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5099BR,Branch,5099BR,"151,841452","-26,560331",Kingaroy,South Burnett,Wide Bay,Queensland,Australia
+5101BR,Branch,5101BR,"152,738886","-27,660246",Yamanto,Ipswich,Ipswich,Queensland,Australia
+5104BR,Branch,5104BR,"153,283958","-27,625523",Redland Bay,Redland,Brisbane - East,Queensland,Australia
+5106BR,Branch,5106BR,"153,040691","-27,486454",East Brisbane,Brisbane,Brisbane Inner City,Queensland,Australia
+5107BR,Branch,5107BR,"153,022208","-27,561018",Coopers Plains,Brisbane,Brisbane - South,Queensland,Australia
+5111BR,Branch,5111BR,"153,004567","-27,229208",North Lakes,Moreton Bay,Moreton Bay - South,Queensland,Australia
+5112BR,Branch,5112BR,"152,934939","-27,563136",Sumner Park BC,Brisbane,Ipswich,Queensland,Australia
+5113BR,Branch,5113BR,"151,247304","-27,173923",Dalby,Western Downs,Darling Downs - Maranoa,Queensland,Australia
+5114BR,Branch,5114BR,"151,273622","-23,878681",Toolooa,Gladstone,Central Queensland,Queensland,Australia
+5115BR,Branch,5115BR,"153,188936","-27,678504",Loganholme,Logan,Logan - Beaudesert,Queensland,Australia
+5116BR,Branch,5116BR,"148,012608","-21,986402",Moranbah,Isaac,Mackay - Isaac - Whitsunday,Queensland,Australia
+5117BR,Branch,5117BR,"146,820404","-19,309328",Idalia,Townsville,Townsville,Queensland,Australia
+5125BR,Branch,5125BR,"152,988284","-27,3253",Brendale,Moreton Bay,Moreton Bay - South,Queensland,Australia
+5126BR,Branch,5126BR,"152,358611","-24,866222",Bundaberg,Bundaberg,Wide Bay,Queensland,Australia
+5127BR,Branch,5127BR,"145,7615311","-16,9397825",Cairns,Cairns,Cairns,Queensland,Australia
+5128BR,Branch,5128BR,"153,202094","-27,529865",Capalaba,Redland,Brisbane - East,Queensland,Australia
+5129BR,Branch,5129BR,"151,231032","-23,868648",Gladstone,Gladstone,Central Queensland,Queensland,Australia
+5131BR,Branch,5131BR,"152,825147","-25,285032",Hervey Bay,Fraser Coast,Wide Bay,Queensland,Australia
+5132BR,Branch,5132BR,"152,750418","-27,62266",Ipswich,Ipswich,Ipswich,Queensland,Australia
+5133BR,Branch,5133BR,"149,193763","-21,14311",Mackay,Mackay,Mackay - Isaac - Whitsunday,Queensland,Australia
+5134BR,Branch,5134BR,"153,086559","-26,670518",Buderim,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5135BR,Branch,5070BR,"150,5087309","-23,3378508",Kawana,Rockhampton,Central Queensland,Queensland,Australia
+5136BR,Branch,5136BR,"153,0365015","-27,5422296",Salisbury,Brisbane,Brisbane - South,Queensland,Australia
+5137BR,Branch,5137BR,"153,120876","-27,624967",Slacks Creek,Logan,Logan - Beaudesert,Queensland,Australia
+5138BR,Branch,5138BR,"153,408957","-27,979599",Southport,Gold Coast,Gold Coast,Queensland,Australia
+5139BR,Branch,5139BR,"153,007934","-27,443421",Kelvin Grove,Brisbane,Brisbane Inner City,Queensland,Australia
+5140BR,Branch,5140BR,"146,75984","-19,271363",Garbutt,Townsville,Townsville,Queensland,Australia
+5141BR,Branch,5141BR,"153,542369","-28,200456",Tweed Heads South,Tweed,Richmond - Tweed,New South Wales,Australia
+5142BR,Branch,5142BR,"153,0230988","-27,5612781",Coopers Plains,Brisbane,Brisbane - South,Queensland,Australia
+5144BR,Branch,5703BR,"153,098238","-27,532538",Mansfield,Brisbane,Brisbane - South,Queensland,Australia
+5146BR,Branch,5146BR,"152,9461","-27,070857",Caboolture,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5147BR,Branch,5147BR,"153,009926","-27,442443",Kelvin Grove,Brisbane,Brisbane Inner City,Queensland,Australia
+5148BR,Branch,5148BR,"151,910347","-27,547656",Wilsonton,Toowoomba,Toowoomba,Queensland,Australia
+5149BR,Branch,5046BR,"145,745718","-16,914433",Manunda,Cairns,Cairns,Queensland,Australia
+5150BR,Branch,5062BR,"152,919897","-27,614766",Carole Park,Ipswich,Ipswich,Queensland,Australia
+5151BR,Branch,5151BR,"153,046401","-26,41892",Noosaville,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5152BR,Branch,5895BR,"153,0871426","-27,4209493",Eagle Farm,Brisbane,Brisbane - North,Queensland,Australia
+5153BR,Branch,5153BR,"153,377787","-27,976353",Molendinar,Gold Coast,Gold Coast,Queensland,Australia
+5154BR,Branch,5057BR,"146,777876","-19,266403",Garbutt,Townsville,Townsville,Queensland,Australia
+5157BR,Branch,5023BR,"139,50526","-20,703498",Sunset,Mount Isa,Queensland - Outback,Queensland,Australia
+5158BR,Branch,5709BR,"152,950185","-27,111534",Morayfield,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5159BR,Branch,5159BR,"152,99288","-27,20832",Narangba,Moreton Bay,Moreton Bay - North,Queensland,Australia
+5160BR,Branch,5160BR,"153,118554","-26,797123",Caloundra West,Sunshine Coast,Sunshine Coast,Queensland,Australia
+5161BR,Branch,5161BR,"153,09882","-27,458038",Murarrie,Brisbane,Brisbane - East,Queensland,Australia
+5169BR,Branch,5026BR,"153,53575","-28,20559",Tweed Heads South,Tweed,Richmond - Tweed,New South Wales,Australia
+5172BR,Branch,5172BR,"151,947475","-27,565474",Toowoomba,Toowoomba,Toowoomba,Queensland,Australia
+5174BR,Branch,5174BR,"146,758059","-19,279357",Garbutt,Townsville,Townsville,Queensland,Australia
+5710BR,Branch,5710BR,"152,99352","-27,42008",Enoggera,Brisbane,Brisbane - West,Queensland,Australia
+5886BR,Branch,5142BR,"153,0230988","-27,5612781",Coopers Plains,Brisbane,Brisbane - South,Queensland,Australia
+6002BR,Branch,6002BR,"138,559756","-34,9419902",Richmond,West Torrens,Adelaide - West,South Australia,Australia
+6003BR,Branch,6003BR,"138,6304596","-34,91333095",Stepney,Norwood Payneham St Peters,Adelaide - Central and Hills,South Australia,Australia
+6004BR,Branch,6004BR,"138,555723","-35,064891",O`Halloran Hill,Marion,Adelaide - South,South Australia,Australia
+6005BR,Branch,6005BR,"138,664621","-34,770631",Salisbury Plain,Salisbury,Adelaide - North,South Australia,Australia
+6006BR,Branch,6006BR,"138,7067674","-34,82892027",St Agnes,Tea Tree Gully,Adelaide - North,South Australia,Australia
+6007BR,Branch,6007BR,"138,5388","-34,988",Morphettville,Marion,Adelaide - South,South Australia,Australia
+6008BR,Branch,6702BR,"138,591483","-34,92505",Adelaide,Adelaide,Adelaide - Central and Hills,South Australia,Australia
+6009BR,Branch,6702BR,"138,591483","-34,92505",Adelaide,Adelaide,Adelaide - Central and Hills,South Australia,Australia
+6011BR,Branch,6011BR,"138,590885","-34,848834",Kilburn,Port Adelaide Enfield,Adelaide - North,South Australia,Australia
+6012BR,Branch,6703BR,"138,493","-35,1172",Lonsdale,Onkaparinga,Adelaide - South,South Australia,Australia
+6013BR,Branch,6013BR,"140,79152","-37,81515",Mount Gambier,Mount Gambier,South Australia - South East,South Australia,Australia
+6014BR,Branch,6014BR,"138,8755","-35,0755",Mt Barker,Mount Barker,Adelaide - Central and Hills,South Australia,Australia
+6015BR,Branch,6015BR,"138,571575","-34,845084",Wingfield,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6016BR,Branch,6016BR,"138,738","-34,5911",Willaston,Gawler,Adelaide - North,South Australia,Australia
+6017BR,Branch,6017BR,"138,5136349","-34,87697089",Hendon,Charles Sturt,Adelaide - West,South Australia,Australia
+6018BR,Branch,6018BR,"138,5922945","-34,98560625",Daw Park,Mitcham,Adelaide - South,South Australia,Australia
+6019BR,Branch,6019BR,"138,6142908","-35,55808987",Victor Harbor,Victor Harbor,South Australia - South East,South Australia,Australia
+6020BR,Branch,6020BR,"137,5306504","-33,0311957",Whyalla Norrie,Whyalla,South Australia - Outback,South Australia,Australia
+6021BR,Branch,6021BR,"138,6384273","-34,87038729",Klemzig,Port Adelaide Enfield,Adelaide - North,South Australia,Australia
+6022BR,Branch,6022BR,"135,860228","-34,723849",Port Lincoln,Port Lincoln,South Australia - Outback,South Australia,Australia
+6023BR,Branch,6023BR,"139,2552644","-35,12394431",Murray Bridge,Murray Bridge,South Australia - South East,South Australia,Australia
+6024BR,Branch,6024BR,"140,76115","-36,9518",Naracoorte,Naracoorte and Lucindale,South Australia - South East,South Australia,Australia
+6026BR,Branch,6026BR,"140,6029104","-34,26772084",Berri,Berri and Barmera,South Australia - South East,South Australia,Australia
+6028BR,Branch,6028BR,"137,696","-33,9594",Kadina,Copper Coast,Barossa - Yorke - Mid North,South Australia,Australia
+6029BR,Branch,6029BR,"138,505468","-34,851976",Port Adelaide,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6030BR,Branch,6021BR,"138,6384273","-34,87038729",Klemzig,Port Adelaide Enfield,Adelaide - North,South Australia,Australia
+6031BR,Branch,6703BR,"138,493","-35,1172",Lonsdale,Onkaparinga,Adelaide - South,South Australia,Australia
+6032BR,Branch,6032BR,"138,506882","-35,110178",Lonsdale,Onkaparinga,Adelaide - South,South Australia,Australia
+6033BR,Branch,6033BR,"138,62658","-34,921259",Norwood,Norwood Payneham St Peters,Adelaide - Central and Hills,South Australia,Australia
+6037BR,Branch,6037BR,"138,478","-35,191",Seaford,Onkaparinga,Adelaide - South,South Australia,Australia
+6041BR,Branch,6041BR,"138,682682","-34,876209",Newton,Campbelltown,Adelaide - Central and Hills,South Australia,Australia
+6042BR,Branch,6042BR,"138,615797","-35,017856",Blackwood,Mitcham,Adelaide - South,South Australia,Australia
+6043BR,Branch,6702BR,"138,591483","-34,92505",Adelaide,Adelaide,Adelaide - Central and Hills,South Australia,Australia
+6044BR,Branch,6044BR,"138,607695","-34,796821",Green Fields,Salisbury,Adelaide - North,South Australia,Australia
+6045BR,Branch,6045BR,"138,5744477","-34,93789048",Mile End South,West Torrens,Adelaide - West,South Australia,Australia
+6046BR,Branch,6046BR,"137,550618","-33,036513",Whyalla,Whyalla,South Australia - Outback,South Australia,Australia
+6047BR,Branch,6047BR,"138,501561","-35,116342",Lonsdale,Onkaparinga,Adelaide - South,South Australia,Australia
+6048BR,Branch,6048BR,"138,60734","-34,827509",Pooraka,Salisbury,Adelaide - North,South Australia,Australia
+6050BR,Branch,6880BR,"138,561516","-34,844707",Wingfield,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6052BR,Branch,6052BR,"138,6686","-34,71427",Elizabeth,Playford,Adelaide - North,South Australia,Australia
+6053BR,Branch,6703BR,"138,502156","-35,116265",Lonsdale,Onkaparinga,Adelaide - South,South Australia,Australia
+6055BR,Branch,6055BR,"138,6051426","-34,71777356",Direk,Salisbury,Adelaide - North,South Australia,Australia
+6056BR,Branch,6880BR,"138,561516","-34,844707",Wingfield,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6091BR,Branch,6880BR,"138,561516","-34,844707",Wingfield,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6092BR,Branch,6880BR,"138,561516","-34,844707",Wingfield,Port Adelaide Enfield,Adelaide - West,South Australia,Australia
+6702BR,Branch,6702BR,"138,5911088","-34,92531686",Adelaide,Adelaide,Adelaide - Central and Hills,South Australia,Australia
+6886BR,Branch,6048BR,"138,60734","-34,827509",Pooraka,Salisbury,Adelaide - North,South Australia,Australia
+7001BR,Branch,7001BR,"115,8086719","-31,9035783",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7002BR,Branch,7002BR,"115,6481147","-33,33308328",Bunbury,Bunbury,Bunbury,Western Australia,Australia
+7003BR,Branch,7003BR,"115,9515","-32,02575",Cannington,Gosnells,Perth - South East,Western Australia,Australia
+7004BR,Branch,7004BR,"121,48197","-30,75338",Kalgoorlie,Kalgoorlie/Boulder,Western Australia - Outback (South),Western Australia,Australia
+7005BR,Branch,7005BR,"117,87343","-34,992945",Milpara,Albany,Western Australia - Wheat Belt,Western Australia,Australia
+7006BR,Branch,7006BR,"114,6274","-28,7488",Geraldton,Geraldton-Greenough,Western Australia - Outback (South),Western Australia,Australia
+7007BR,Branch,7007BR,"115,762638","-31,748977",Joondalup,Joondalup,Perth - North West,Western Australia,Australia
+7008BR,Branch,7008BR,"115,740183","-32,51889876",Mandurah,Mandurah,Mandurah,Western Australia,Australia
+7009BR,Branch,7009BR,"115,3435","-33,667",Busselton,Busselton,Bunbury,Western Australia,Australia
+7010BR,Branch,7010BR,"115,8223237","-32,04435398",Myaree,Melville,Perth - South West,Western Australia,Australia
+7011BR,Branch,7011BR,"116,033035","-31,886504",Midvale,Mundaring,Perth - North East,Western Australia,Australia
+7012BR,Branch,7012BR,"115,8662391","-31,94625779",Perth,Perth,Perth - Inner,Western Australia,Australia
+7013BR,Branch,7013BR,"115,778988","-32,276531",Rockingham,Rockingham,Perth - South West,Western Australia,Australia
+7014BR,Branch,7014BR,"115,7609","-32,0764",Fremantle,Fremantle,Perth - South West,Western Australia,Australia
+7015BR,Branch,7701BR,"115,92436","-31,957701",Belmont,Belmont,Perth - South East,Western Australia,Australia
+7016BR,Branch,7701BR,"115,92436","-31,957701",Belmont,Belmont,Perth - South East,Western Australia,Australia
+7017BR,Branch,7017BR,"115,895253","-31,898091",Morley,Bayswater,Perth - North East,Western Australia,Australia
+7018BR,Branch,7018BR,"115,7863603","-31,98220805",Claremont,Claremont,Perth - Inner,Western Australia,Australia
+7019BR,Branch,7019BR,"116,009594","-32,13048574",Kelmscott,Armadale,Perth - South East,Western Australia,Australia
+7020BR,Branch,7705BR,"115,8962","-31,8559",Malaga,Swan,Perth - North East,Western Australia,Australia
+7021BR,Branch,7021BR,"115,8314","-31,7985",Wangara,Wanneroo,Perth - North West,Western Australia,Australia
+7022BR,Branch,7702BR,"115,9070984","-32,06025674",Canning Vale,Canning,Perth - South East,Western Australia,Australia
+7023BR,Branch,7701BR,"115,92436","-31,957701",Belmont,Belmont,Perth - South East,Western Australia,Australia
+7024BR,Branch,7895BR,"115,8131375","-31,909009",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7025BR,Branch,7018BR,"115,8131375","-31,909009",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7026BR,Branch,7702BR,"115,9070984","-32,06025674",Canning Vale,Canning,Perth - South East,Western Australia,Australia
+7027BR,Branch,7027BR,"115,722242","-31,692504",Clarkson,Wanneroo,Perth - North West,Western Australia,Australia
+7028BR,Branch,7028BR,"115,76197","-32,37033",Port Kennedy,Rockingham,Perth - South West,Western Australia,Australia
+7029BR,Branch,7705BR,"115,8962","-31,8559",Malaga,Swan,Perth - North East,Western Australia,Australia
+7031BR,Branch,7031BR,"115,867","-32,12059",Jandakot,Cockburn,Perth - South West,Western Australia,Australia
+7034BR,Branch,7034BR,"115,81279","-31,90929",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7036BR,Branch,7001BR,"115,8086719","-31,9035783",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7037BR,Branch,7037BR,"115,07111","-33,96176",Margaret River,Augusta-Margaret River,Bunbury,Western Australia,Australia
+7038BR,Branch,7038BR,"115,8104","-31,858331",Balcatta,Stirling,Perth - North West,Western Australia,Australia
+7040BR,Branch,7040BR,"115,8361","-31,796935",Wangara,Wanneroo,Perth - North West,Western Australia,Australia
+7042BR,Branch,7042BR,"118,601259","-20,378283",Wedgefield,Port Hedland,Western Australia - Outback (North),Western Australia,Australia
+7044BR,Branch,7044BR,"115,913818","-32,063104",Canning Vale,Canning,Perth - South East,Western Australia,Australia
+7045BR,Branch,7895BR,"115,8640299","-32,0974523",Jandakot,Cockburn,Perth - South West,Western Australia,Australia
+7046BR,Branch,7046BR,"116,879768","-20,760458",Karratha,Roebourne,Western Australia - Outback (North),Western Australia,Australia
+7047BR,Branch,7047BR,"115,680652","-33,35966",Davenport,Bunbury,Bunbury,Western Australia,Australia
+7048BR,Branch,7048BR,"115,841914","-31,942524",West Leederville,Cambridge,Perth - Inner,Western Australia,Australia
+7049BR,Branch,7049BR,"115,967225","-31,778598",Ellenbrook,Swan,Perth - North East,Western Australia,Australia
+7050BR,Branch,7050BR,"115,9228525","-31,9482688",Belmont,Belmont,Perth - South East,Western Australia,Australia
+7051BR,Branch,7051BR,"115,648967","-33,338791",Bunbury,Bunbury,Bunbury,Western Australia,Australia
+7052BR,Branch,7052BR,"115,898607","-31,86567",Malaga,Swan,Perth - North East,Western Australia,Australia
+7053BR,Branch,7053BR,"115,784356","-32,061307",O`Connor,Fremantle,Perth - South West,Western Australia,Australia
+7054BR,Branch,7001BR,"115,810795","-31,9035783",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7055BR,Branch,7055BR,"115,865552","-32,122104",Jandakot,Cockburn,Perth - South West,Western Australia,Australia
+7056BR,Branch,7056BR,"115,841953","-31,79159",Wangara,Wanneroo,Perth - North West,Western Australia,Australia
+7057BR,Branch,7013BR,"115,778988","-32,276531",Rockingham,Rockingham,Perth - South West,Western Australia,Australia
+7059BR,Branch,7059BR,"116,842559","-20,730956",Pegs Creek,Roebourne,Western Australia - Outback (North),Western Australia,Australia
+7061BR,Branch,7895BR,"115,8640299","-32,0974523",Jandakot,Cockburn,Perth - South West,Western Australia,Australia
+7067BR,Branch,7067BR,"115,838534","-31,795538",Wangara,Wanneroo,Perth - North West,Western Australia,Australia
+7091BR,Branch,7895BR,"115,8131375","-31,909009",Osborne Park,Stirling,Perth - North West,Western Australia,Australia
+7701BR,Branch,7701BR,"115,92436","-31,957701",Belmont,Belmont,Perth - South East,Western Australia,Australia
+8001BR,Branch,8001BR,"147,3188279","-42,87920364",Hobart,Hobart,Hobart,Tasmania,Australia
+8002BR,Branch,8002BR,"147,298858","-42,836275",Derwent Park,Glenorchy,Hobart,Tasmania,Australia
+8003BR,Branch,8003BR,"147,2917898","-42,84241704",Moonah,Glenorchy,Hobart,Tasmania,Australia
+8004BR,Branch,8004BR,"147,1331299","-41,4133077",Launceston,Launceston,Launceston and North East,Tasmania,Australia
+8005BR,Branch,8703BR,"147,3932215","-42,86295191",Mornington,Clarence,Hobart,Tasmania,Australia
+8007BR,Branch,8002BR,"147,298858","-42,836275",Derwent Park,Glenorchy,Hobart,Tasmania,Australia
+8009BR,Branch,8009BR,"145,945436","-41,066891",Burnie,Burnie,West and North West,Tasmania,Australia
+8010BR,Branch,8010BR,"147,3155075","-42,97303146",Kingston,Kingborough,Hobart,Tasmania,Australia
+8011BR,Branch,8704BR,"146,33856","-41,18015",Devonport,Devonport,West and North West,Tasmania,Australia
+8014BR,Branch,8020BR,"147,151822","-41,476459",Kings Meadows,Launceston,Launceston and North East,Tasmania,Australia
+8015BR,Branch,8015BR,"147,143055","-41,451846",South Launceston,Launceston,Launceston and North East,Tasmania,Australia
+8017BR,Branch,8017BR,"147,468873","-42,830154",Cambridge,Clarence,Hobart,Tasmania,Australia
+8018BR,Branch,8704BR,"146,33856","-41,18015",Devonport,Devonport,West and North West,Tasmania,Australia
+8019BR,Branch,8019BR,"147,289587","-42,841069",Moonah,Glenorchy,Hobart,Tasmania,Australia
+8020BR,Branch,8020BR,"147,151837","-41,476456",Kings Meadows,Launceston,Launceston and North East,Tasmania,Australia
+9001BR,Branch,9001BR,"130,9292967","-12,43686111",Berrimah,Darwin,Darwin,Northern Territory,Australia
+9003BR,Branch,9003BR,"130,9907","-12,4735",Yarrawonga,Palmerston,Darwin,Northern Territory,Australia
+9004BR,Branch,9004BR,"133,863","-23,6897",Alice Springs,Alice Springs,Northern Territory - Outback,Northern Territory,Australia
+9005BR,Branch,9005BR,"130,8410394","-12,44729389",Stuart Park,Darwin,Darwin,Northern Territory,Australia
+9006BR,Branch,9006BR,"130,855646","-12,401724",Coconut Grove,Darwin,Darwin,Northern Territory,Australia
+9007BR,Branch,9001BR,"130,9292967","-12,43686111",Berrimah,Darwin,Darwin,Northern Territory,Australia
+9008BR,Branch,9008BR,"130,869043","-12,428968",Winnellie,Darwin,Darwin,Northern Territory,Australia
+9009BR,Branch,9001BR,"130,919819","-12,433273",Berrimah,Darwin,Darwin,Northern Territory,Australia
+9010BR,Branch,9010BR,"130,99232","-12,472446",Yarrawonga,Palmerston,Darwin,Northern Territory,Australia
+9012BR,Branch,9012BR,"132,288114","-14,476948",Katherine East,Katherine,Northern Territory - Outback,Northern Territory,Australia
+9014BR,Branch,9001BR,"130,929319","-12,436948",Berrimah,Darwin,Darwin,Northern Territory,Australia
