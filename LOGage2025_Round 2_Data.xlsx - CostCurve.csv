@@ -1,0 +1,9 @@
+State,Mode,Intercept (AUD),Slope (AUD/KM),Min Distance (KM),Max Distance (KM)
+New South Wales,FTL,"225,2","0,9",0,55
+New South Wales,LTL,"360,4","1,1",55,999999
+Queensland,FTL,"192,6","0,2",0,100
+Queensland,LTL,"226,7","0,3",100,999999
+Victoria,FTL,"198,4",1,0,70
+Victoria,LTL,"334,8","0,2",70,999999
+Western Australia,FTL,"95,8","1,2",0,55
+Western Australia,LTL,"242,2","0,5",55,999999

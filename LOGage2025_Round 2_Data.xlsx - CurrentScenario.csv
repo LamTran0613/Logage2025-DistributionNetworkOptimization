@@ -1,0 +1,4 @@
+Facility,CapacityInPallets,Longitude,Latitude,AverageInventoryInCBM,StorageCostPerCBM (AUD),HandlingCostPerCBM (AUD)
+NSW-DC01,16000,"151,1250996","-29,79165152",14898,30,10
+,,,,,,
+PalletSize,120 cm × 80 cm × 150 cm high,,,,,
