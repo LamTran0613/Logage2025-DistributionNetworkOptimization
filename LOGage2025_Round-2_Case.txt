@@ -1,0 +1,150 @@
+LOGage 2025
+Distribution Network Optimization Round 2 Case
+
+
+1. BACKGROUND
+LOGage is a leading national supplier of Plumbing and Mechanical Products, delivering comprehensive infrastructure solutions across the industrial, commercial, and residential sectors. With a vast network of up to 635 branches nationwide, LOGage supports the Building Services and Mechanical Supplies industry through a centralized logistics operation anchored by its main Distribution Center (DC) in Inverell, New South Wales. The company specializes in the distribution and sales of bulky and heavy items, including a wide range of pipes, fittings, water management systems, HVAC components, and plumbing infrastructure essential for construction and civil works.
+
+2. CURRENT SITUATION
+Product Portfolio
+LOGage offers a diverse range of products across 10 sections, encompassing a total of 939 SKUs:
+1. PLASTIC PIPE & FITTINGS
+2. COPPER & STEEL FITTINGS
+3. TAPWARE
+4. BATHS AND BASES
+5. REFRIGERATION COMPONENTRY
+6. PUMPS AND WATER TREATMENT
+7. COPPER & STAINLESS STEEL TUBE
+
+
+
+8. CIVIL PLASTIC PIPE & FITTINGS
+9. HEATING & COOLING COMPONENTS
+10. CAPITAL REFRIGERATION
+Current Network Problem
+Currently, LOGage's board of directors recognizes that relying on a single centralized DC is costly, particularly in terms of transportation, and exposes inventory to significant risk due to the network's vulnerability. While safety stock can effectively buffer regular variations in demand and supply, it is insufficient to handle disruptions such as natural disasters, structural failures, or market shocks. By placing inventory closer to demand points, LOGage can significantly reduce the risk associated with these disruptive events.
+
+
+Consequently, the board is considering a network redesign that increases the number of facilities, enabling the network to better withstand disruptions and respond more rapidly to customer demand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+? Transfer Cost: Transportation costs incurred when moving goods from the central DC to regional DCs.
+? Storage Cost: Expenses related to inventory holding at warehouses, including rental fees, utilities, insurance, depreciation, inventory obsolescence, and security measures.
+? Handling Cost: Costs related to managing outbound volumes from DCs, estimated based on the cubic meters (CBM) handled by each DC (inbound handling cost is out of scope).
+? Branch Delivery Cost: Transportation costs associated with delivering SKUs to branches nationwide.
+To streamline the strategy, LOGage's board of directors has decided to exclude implementation costs from their considerations. Here are some additional assumptions and considerations for this analysis:
+? Each distribution center (DC) is capable of stocking the complete range of available products.
+? The location chosen for a new DC within Australia will not impact the cost of inbound transportation (from suppliers or manufacturers to the DC).
+? Deliveries from local suppliers are considered free of charge.
+
+
+
+Branch Delivery Cost Calculation
+The company operates its own fleet for full-truck deliveries to nearby branches, while hiring third-party carriers for deliveries to distant branches. All relevant data can be found in the "Cost Curve" sheet. It represents a linear relationship between transportation cost and distance from the Distribution Center (DC) based on its origin state. While actual transportation costs don't always follow a perfectly linear path with distance, for simplicity, this model assumes a strict linear trend:
+Cost = Slope.X + Intercept (X is Distance in Kilometers) We have this table, for example:
+StateModeInterceptSlopeMin DistanceMax DistanceNew South WalesFTL200.2055New South WalesLTL300.35599999This means that if the DC is in New South Wales:
+? For distances between 0 and 55 kilometers, the transportation cost using Full Truckload (FTL) is calculated as (0.2X+20) AUD.
+? If the distance exceeds 55 kilometers, the cost switches to Less than Truckload (LTL) and is calculated as (0.3X+30) AUD.
+Note that the provided data only includes the main states. If a projected cluster falls outside of these listed states, you could use the Intercept and Slope values of the nearest state.
+Square Root Law for Inventory Calculation
+In supply chain design, having a single distribution center (DC) allows for greater risk pooling, which helps reduce overall safety stock due to demand variability being aggregated in one location. However, when the number of DCs increases, this risk-pooling benefit diminishes, leading to higher total inventory requirements across the network.
+Regarding the inventory for new scenarios, the current scenario involves only a single DC. To estimate the inventory needed in a scenario with multiple DCs, the Square Root Law is applied.
+
+
+
+
+
+
+
+
+Note: Teams can apply their methodology for estimating inventory in multi-DC scenarios if they have a preferred or more advanced approach beyond the SRL.
+3. OBJECTIVE
+Distribution Network Redesign
+Aligned with the objectives set by the Board of Directors, LOGage aims to optimize its distribution network by reducing total costs, mitigating risks associated with centralized inventory, and maintaining consistently high service levels across all regions.
+Scenario Exploration
+The Board of Directors seeks to thoroughly evaluate multiple geographic clustering scenarios, each reflecting distinct regional and operational configurations. These scenarios will involve grouping branches based on their proximity and accessibility to new regional distribution centers (RDCs), aiming to improve delivery efficiency and minimize transportation lead times.
+
+
+
+4. MISSION
+4.1. Pre-Clustering
+Since customers are dispersed nationwide, clustering is a critical first step for LOGage to strategically position distribution centers across the country. Effective clustering will enhance transportation efficiency (reducing routing costs), improve customer service (bringing distribution points closer to customers), and ensure adequate capacity planning for each cluster. To achieve this, the analysis can leverage methods such as K-means clustering, Agglomerative Clustering, or Voronoi Clustering; other suitable techniques may also be applied. The optimal number of clusters should be determined based on operational criteria and strategic judgment by your team. This analysis can be conducted using programming languages such as Python or R, or even performed using Microsoft Excel.
+
+
+Example of Clustering using K-means
+4.2. Distribution Network Design
+After identifying customer clusters, the next step is to determine the optimal distribution center (DC) configuration; this includes deciding the ideal number, locations, and pallet-based capacities for each DC. The number of DCs can be aligned with the established customer clusters.
+It is recommended to establish a baseline using the current setup (e.g., a single DC). From there, you can gradually increase the number of DCs and analyze the trade-offs between cost and service level. The following example illustrates how performance metrics shift with different cluster configurations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trade-O? Analysis Across Scenarios
+
+
+4.3. Detailed Scenario Analysis (For Round 3 Only)
+This section is specifically required for Round 3. Teams are not required to complete this analysis in earlier rounds. However, the foundational works performed in the current phase are crucial and form the core basis for developing the final case submission required in Round 3. Keep this in mind as you work through the current tasks.
+Upon completion of the optimization phase, you are expected to present your scenario analysis results to the company's leadership. Besides the key metrics used to evaluate your final proposition, don't forget to highlight business aspects relevant to the company's strategy, for example:
+? What other benefits come from applying the new strategy in the expected context of high uncertainty?
+? How will you implement these in a plan of 3-5 years?
+? What strategy would you recommend moving forward?
+Additionally, your team must clearly specify the proposed network structure, whether the network will be fully decentralized or if it will maintain a central distribution center responsible for transferring inventory to regional DCs.
+
+
+
+
+Please prepare a PowerPoint deck (submitted in PDF format) in English, of a maximum of
+8 slides only in this round (excluding the introduction, executive summary, and conclusion slides), explaining the methodology. Keep in mind the limited time available and the fact that the reader may not be familiar with all the details and calculations. Focus on being concise and effective in presenting your key ideas and results.
+
+
+5. HANDOVER MATERIAL
+There is one attached file:
+? LOGage2025_Round 2_Data, with the inputs for the analytical problem The "LOGage2025_Round 2_Data" file is not meant to be edited.
+Furthermore, you and your team are allowed to submit any supplemental material (Jupyter Notebook, Rmarkdown report, etc.), but this would not be the focus of the scoring process*.
+The material will be evaluated based on the following parameters:
+? Precision (over expected answer)
+? Clarity (calculation tabs to support the answers)
+? Accuracy
+*Any additional materials submitted by the team will be reviewed at the jury's discretion. However, due to the large amount of documentation provided, these materials may not be fully reviewed.
+
+
+
+
+
+
+
+
+
+
